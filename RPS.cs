@@ -61,7 +61,7 @@ class Program
             }
             else
             {
-                Console.WriteLine($"{p1} vs {p2}  Resultado no definido");
+                Console.WriteLine($"{p1} vs {p2}  There's no result for the game");
             }
         }
 
